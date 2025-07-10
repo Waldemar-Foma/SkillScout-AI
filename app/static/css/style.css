@@ -855,6 +855,7 @@ label,
 .header-inner {
     display: flex;
     justify-content: space-between;
+    
     align-items: center;
     height: 50px;
 }
@@ -1101,6 +1102,7 @@ body {
 .header-inner {
   display: flex;
   justify-content: space-between;
+  font-family: 'Deledda Open', sans-serif;
   align-items: center;
   padding: 15px 0;
 }
