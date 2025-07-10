@@ -865,6 +865,7 @@ label,
     gap: 8px;
     font-size: 16px;
     font-weight: 700;
+    font-family: 'Deledda Open', sans-serif;
     color: var(--dark);
     text-decoration: none;
 }
